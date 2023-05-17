@@ -9,6 +9,7 @@ pipeline{
       steps {
       
         echo "this is from Master Branch"
+        sleep 5
       }    
     
     }
