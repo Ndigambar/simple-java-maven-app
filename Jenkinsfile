@@ -9,6 +9,7 @@ pipeline{
       steps {
       
         echo "this is from Bitwiseman Branch"
+        sleep 7
       }    
     
     }
